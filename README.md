@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=KaranChauhanji&icon=4&color=6)](https://visitcount.itsvg.in)
 # 💫 About Me:
-👋 Hey! I'm Karan Chauhan from Aligarh, UP.<br><br>Currently immersed in Full Stack Web Development, eager to learn and grow.<br>I love exploring various technologies and frameworks to enhance my skills. 🌱<br><br>Feel free to reach out at 📧 karanchauhanji2003@gmail.com.<br>Let's connect and create something awesome together! 🚀
+👋 Hey! I'm Karan Chauhan from Aligarh, UP.<br><br>Currently immersed in Software Development, eager to learn and grow.<br>I love exploring various technologies and frameworks to enhance my skills. 🌱<br><br>Feel free to reach out at 📧 karanchauhanji2003@gmail.com.<br>Let's connect and create something awesome together! 🚀
 
 
 ## 🌐 Socials:
