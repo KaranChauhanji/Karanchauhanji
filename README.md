@@ -3,7 +3,7 @@
 # 💫 About Me:
 👋 Hey! I'm Karan Chauhan from Aligarh, UP.<br><br>Currently immersed in Software Development, eager to learn and grow.<br>I love exploring various technologies and frameworks to enhance my skills. 🌱<br><br>Feel free to reach out at 📧 karanchauhanji2003@gmail.com.<br>Let's connect and create something awesome together! 🚀
 
-Visit My Portfolio: [![Portfolio](https://karanchauhan.vercel.app/)]
+Visit My Portfolio: [(https://karanchauhan.vercel.app/)]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-chauhanji) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KaranChauhanji) 
