@@ -15,8 +15,8 @@ Visit My Portfolio: https://karanchauhan.vercel.app/
 # 📊 GitHub Stats:
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; margin:auto">
   <img src="https://github-readme-stats.vercel.app/api?username=KaranChauhanji&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Karan Chauhan's GitHub Stats" style="width: 40%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChauhanji&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 50%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranChauhanji&theme=dark&hide_border=false" alt="Karan Chauhan's GitHub Streak" style="width: 40%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChauhanji&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 40%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranChauhanji&theme=dark&hide_border=false" alt="Karan Chauhan's GitHub Streak" style="width: 50%;">
 </div>
 
 ---
