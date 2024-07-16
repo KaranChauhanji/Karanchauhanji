@@ -3,7 +3,7 @@
 # 💫 About Me:
 👋 Hey! I'm Karan Chauhan from Aligarh, UP.<br><br>Currently immersed in Software Development, eager to learn and grow.<br>I love exploring various technologies and frameworks to enhance my skills. 🌱<br><br>Feel free to reach out at 📧 karanchauhanji2003@gmail.com.<br>Let's connect and create something awesome together! 🚀
 
-Visit My Portfolio: [![Portfolio](https://karanchauhan.vercel.app/)
+Visit My Portfolio: [![Portfolio](https://karanchauhan.vercel.app/)]
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karan-chauhanji) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KaranChauhanji) 
@@ -13,7 +13,7 @@ Visit My Portfolio: [![Portfolio](https://karanchauhan.vercel.app/)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 # 📊 GitHub Stats:
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; justify-content: center>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;>
   <img src="https://github-readme-stats.vercel.app/api?username=KaranChauhanji&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Karan Chauhan's GitHub Stats" style="width: 40%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChauhanji&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 40%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranChauhanji&theme=dark&hide_border=false" alt="Karan Chauhan's GitHub Streak" style="width: 40%;">
