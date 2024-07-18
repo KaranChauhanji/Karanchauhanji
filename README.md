@@ -3,6 +3,7 @@
 # 💫 About Me:
 Hello! My name is Karan Chauhan & creating things that live on the internet is a passion. A passionate Developer 👨‍💻, with strong administrative 🗂️ & communication skills 🗣️, good attention to detail 🔍 & the ability to write efficient code 💻. Specializing in crafting pixel-perfect designs 🎨 and implementing responsive layouts 📱 to deliver seamless and visually appealing websites 🌐.
 
+Contact me: 📧 karanchauhanji2003@gmail.com 
 Visit My Portfolio: https://karanchauhan.vercel.app/
 
 ## 🌐 Socials:
