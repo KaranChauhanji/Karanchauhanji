@@ -1,7 +1,7 @@
 [![masterHead](https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-👋 Hey! I'm Karan Chauhan from Aligarh, UP.<br><br>Currently immersed in Software Development, eager to learn and grow.<br>I love exploring various technologies and frameworks to enhance my skills. 🌱<br><br>Feel free to reach out at 📧 karanchauhanji2003@gmail.com.<br>Let's connect and create something awesome together! 🚀
+Hello! My name is Karan Chauhan & I enjoy creating things that live on the internet. A passionate Developer, with strong administrative & communication skills, good attention to detail & the ability to write efficient code. I specialize in crafting pixel-perfect designs and implementing responsive layouts to deliver seamless and visually appealing websites.
 
 Visit My Portfolio: https://karanchauhan.vercel.app/
 
