@@ -1,6 +1,6 @@
 [![masterHead](https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)](https://visitcount.itsvg.in)
 
-<div style="text-align: center">
+
 
   
 # 💫 About Me:
@@ -22,7 +22,7 @@ Visit My Portfolio: https://karanchauhan.vercel.app/
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChauhanji&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 40%;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaranChauhanji&theme=dark&hide_border=false" alt="Karan Chauhan's GitHub Streak" style="width: 50%;">
 </div>
-</div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KaranChauhanji&icon=0&color=0)](https://visitcount.itsvg.in)
